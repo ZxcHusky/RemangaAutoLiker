@@ -80,8 +80,8 @@ class RemangaAutoLiker:
             return False
 
 if __name__ == "__main__":
-    LOGIN = "Zxcurcedxxx"
-    PASSWORD = "Moskow10"
+    LOGIN = ""
+    PASSWORD = ""
     TITLE_URL = "https://remanga.org/manga/i-am-a-fulltime-newbie-exclusive/main"  # С /main
     
     bot = RemangaAutoLiker(LOGIN, PASSWORD)
